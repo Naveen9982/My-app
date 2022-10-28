@@ -1,0 +1,20 @@
+    .Navbar{
+        height: 10vh;
+        width: 100%;
+        display: flex;
+        background-color: rgb(24, 109, 207);
+        justify-content: space-around;
+    }
+    .Navbar .Logo {
+        color: beige;
+        text-decoration: none;
+        padding: 0 1rem;
+    }
+    .logo{
+        margin-top: 1rem;   
+        
+    }
+    .Nav{
+margin-top: 1rem;
+
+    }

@@ -1,0 +1,36 @@
+
+.Hom{
+    height: 90vh;
+    width: 100%;
+    background-image: url('/public/1.jpg') ;
+    background-color: rgba(223, 27, 27, 0.733);
+    background-blend-mode: multiply ;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.Hom .btn{
+
+/* height: 80vh; */
+/* padding: 0 1rem; */
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.btn .bts{
+    margin: 1rem;
+padding: 10px 20px;
+color: aliceblue;
+background: rgba(25, 103, 192, 0.61);
+border: none;
+font-size: 20px;
+cursor: pointer;
+/* border-radius: 8px; */
+}
+.btn .bts:hover{
+background: rgb(24, 109, 207);
+/* border: 2px solid rgb(243, 235, 235); */
+transition: 0.5s all ease;
+}
